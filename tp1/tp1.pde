@@ -76,5 +76,28 @@ strokeWeight(3);
 noFill();
 curve(800,200,550,48,650,150,650,700);//linea de la gorra
 
+//triangulos de los dientes 
+ beginShape(); vertex(522,276); vertex(538,276); vertex(530,248); endShape(CLOSE);
+ 
+  beginShape(); vertex(540,276); vertex(556,276); vertex(548,250); endShape(CLOSE);
+  
+  beginShape(); vertex(558,276); vertex(574,276); vertex(566,248); endShape(CLOSE);
+  
+  beginShape(); vertex(576,276); vertex(592,276); vertex(584,250); endShape(CLOSE);
+  
+  beginShape(); vertex(594,276); vertex(610,276); vertex(602,248); endShape(CLOSE);
+  
+  beginShape(); vertex(612,276); vertex(628,276); vertex(620,250); endShape(CLOSE);
+  
+  beginShape(); vertex(630,276); vertex(646,276); vertex(638,248); endShape(CLOSE);
+  
+  
+  beginShape(); vertex(648,276); vertex(664,276); vertex(656,250); endShape(CLOSE);
+  
+  beginShape(); vertex(666,276); vertex(682,276); vertex(674,248); endShape(CLOSE);
+  
+  beginShape(); vertex(684,276); vertex(700,276); vertex(692,250); endShape(CLOSE);
+
+
 
 }
