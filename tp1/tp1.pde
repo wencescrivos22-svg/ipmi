@@ -1,3 +1,4 @@
+//Wenceslao Crivos Comision 3 tp1 18/4/26
 PImage miImagen;
 
 void setup(){
